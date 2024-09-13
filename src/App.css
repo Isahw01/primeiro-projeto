@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.pink-title{
+  color: white;
+  background-color: rgb(224, 102, 169);
+}
+
+.normal-title{
+  color: cornflowerblue;
+  background-color: white;
+}
